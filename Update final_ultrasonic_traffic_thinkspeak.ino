@@ -643,5 +643,5 @@ void routine()
    shiftOut(dataPin, clockPin, LSBFIRST, case14);
    digitalWrite(latchPin, HIGH);
    delay(3000);
-  
+  //end
 }
