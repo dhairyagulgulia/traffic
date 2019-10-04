@@ -6,6 +6,7 @@ int latchPin = 11;
 int clockPin = 13;
 int dataPin = 12;
 
+
 //Ultrasonic sensor pins
 const int  trigPin=10;
 int echoPin1 = 9;
